@@ -22,7 +22,7 @@ Para reproducir los experimentos:
 
 3. Ejecutar las celdas del cuadernillo. El código detectará automáticamente el dataset añadido como entrada y realizará el preprocesamiento necesario antes del entrenamiento.
 
-### Uso del dataset
+### Uso del dataset Anime Faces
 
 Este proyecto utiliza el Anime Face Dataset exclusivamente con fines académicos y no comerciales. Este repositorio no distribuye ninguna imagen perteneciente al dataset original. Los usuarios deben usar los datos directamente desde Kaggle utilizando el enlace proporcionado anteriormente.
 
